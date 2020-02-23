@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1512592343 source:d:\projekty\avr\tachosignaladjuster\fuse.c
+	<avr/io.h>
+
+1566507103 source:d:\projekty\avr\tachosignaladjuster\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/atomic.h>
+	<stdlib.h>
+
