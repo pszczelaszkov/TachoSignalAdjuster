@@ -8,7 +8,7 @@ As bonus it has one high current output for driving things like solenoids(consta
 In this example it controls servotronic power steering valve.</br>
 PCB project can be found at https://easyeda.com/pszczelaszkov/TachoSignalAdjuster.</br>
 Its fully designed on one side PCB, with usage of "through hole" components for ease of assembly.</br>
-Uc:<b>ATtiny44</b></br>
+uC:<b>ATtiny44</b></br>
 <b>IMPORTANT!</b></br>
 This revision 1.0 is in beta stage so there are some bugs in design:</br>
 -Do not use D2(wrong coupling)</br>
